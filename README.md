@@ -69,7 +69,27 @@ python ga_knapsack.py
 
 **Copy the printed packing list here:**
 ```
-[ PASTE PACKING LIST OUTPUT HERE ]
+ Best Packing List
+--------------------------------------
++ Water bottle
++ First aid kit
++ Sleeping bag
++ Torch
++ Energy bars (x6)
++ Rain jacket
++ Map & compass
++ Cooking stove
++ Rope (10 m)
++ Sunscreen
++ Power bank
+--------------------------------------
+Weight : 14.4 / 15.0 kg
+Value  : 77
+Valid  : Yes
+
+Generations run : 50
+Value at gen 1  : 60
+Final best value: 77 
 ```
 
 **Look at `plots/experiment_1.png` and describe what you see (2–3 sentences).**  
